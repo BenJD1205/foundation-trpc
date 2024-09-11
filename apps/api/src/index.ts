@@ -1,7 +1,5 @@
 import cors from "cors";
 import express from "express";
-const a = 0;
-
 const app = express();
 
 //middleware
